@@ -2,6 +2,7 @@
 The project finished by Jiaming and Javier for CHME5137
 
 # Python codes
+
 1. Sigma profile and net charge_final.ipynb
        The code to generate sigma profiles for ionic liquids by computing the results coming
     from Material Studio COSMO analysis. The remaining net charge of those sigma profiles are also
